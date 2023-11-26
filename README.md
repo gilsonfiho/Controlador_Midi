@@ -1,5 +1,7 @@
 # Controlador_Midi
-O projeto consiste na criação de um pedal MIDI inteligente utilizando um Arduino Pro Micro como controlador central. O pedal é equipado com quatro encoders e um potenciômetro, proporcionando uma interface versátil para o usuário.
+O projeto consiste na criação de um pedal MIDI inteligente utilizando um Arduino Pro Micro como controlador central. O pedal é equipado com quatro encoders e um potenciômetro, proporcionando uma interface versátil para o usuário. 
+
+Software utilizado para conexão com o controlador: [Reaper.](https://www.reaper.fm/download.php)
 
 # Estrutura Inicial 
 A estrutura inicial do primeiro controlador, vai ser feita a partir da case do link (https://www.thingiverse.com/thing:4257448) com algumas breves modificações de escalas.
